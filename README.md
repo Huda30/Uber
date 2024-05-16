@@ -5,4 +5,3 @@ Uber Technologies, Inc., commonly referred to as Uber, is an American multinatio
 
 The project I have done showcasing the pickup time in New York City alongside the vehicle activities, the most rush hour. Data cleaning/wrangling have been made as well as the ETL pipeline process. 
 
-
