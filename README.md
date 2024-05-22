@@ -8,7 +8,7 @@
 Uber Technologies, Inc., commonly referred to as Uber, is an American multinational transportation company that offers ride-hailing services, courier services, food delivery, and freight transport. The company is headquartered in San Francisco, California, and operates in approximately 70 countries and 10,500 cities worldwide.
 
 The project I have completed focuses on showcasing the following challenge:
-- The maximum number of pickups in New York City.
+- The maximum number of monthly pickups in New York City.
 - The hourly rush on weekdays.
 - The locations in NYC with the highest rush during rush hour and the most active vehicles using Folium base-map.
 - Pair-wise analysis to examine traffic rush on weekdays.
