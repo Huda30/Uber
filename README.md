@@ -9,7 +9,7 @@ Uber Technologies, Inc., commonly referred to as Uber, is an American multinatio
 
 I've used Python and completed this project to showcase and boost my data analyst applications. Data pre-processing/data cleaning, exploratory data analysis (EDA), extract, transform and load pipeline (ETL) have been completed.
 
-Along with that, there are challenges which have been solved based on my tech skills and showcasing the following challenge:
+There are also challenges that I have addressed using my technical skills, demonstrated by the following challenge:
 
 - The maximum number of monthly pickups in New York City.
 - The hourly rush on weekdays.
