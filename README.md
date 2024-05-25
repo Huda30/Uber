@@ -9,9 +9,9 @@ Uber Technologies, Inc., commonly referred to as Uber, is an American multinatio
 
 I've completed this project to showcase and boost my data analyst applications. Data pre-processing/data cleaning, exploratory data analysis (EDA), extract, transform and load pipeline (ETL) have been completed.
 
-Built data visualization of this business using Python, saving me a week of manual work for the project. 
+✔💯Built data visualization of this business using Python, saving me a week of manual work for the project. 
 
-There are also challenges that I have addressed using my technical skills, demonstrated by the following challenge:
+🎯There are also challenges that I have addressed using my technical skills, demonstrated by the following challenge:
 
 - The maximum number of monthly pickups in New York City.
 - The hourly rush on weekdays.
